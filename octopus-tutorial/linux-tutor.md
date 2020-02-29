@@ -11,16 +11,17 @@
 `sudo dnf install имя_пакета`
 
 Попробуйте написать следующую команду:
-`sudo apt install fzf` (*работает на Ubuntu выше 19 версии*)
+`sudo apt install mc`  или `sudo pacman -Sy mc` или `sudo dnf install mc`
+(*MC (Midnight Commander) - довольно удобный консольный проводник*)
 
 
 
-## Перемещение
+## Перемещение по директр
 `cd` - переместиться в какую-то папку
 `fzf` - быстрый поиск (при наличии пакета)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTA2ODQ4OCwtMTQ3Mjk0MDk0M119
+eyJoaXN0b3J5IjpbNDQ5MDgyNzE3LC0xNDcyOTQwOTQzXX0=
 -->
