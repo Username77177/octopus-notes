@@ -11,9 +11,12 @@
 \+ Очень хорошая документация
 
 \- Оригинальный i3 не такой уж и гибкий, как его форк [i3-gaps](https://github.com/Airblader/i3)
+\- Изначально поставляется просто как пустой экран с dmenu (пакет из suckless-tools)
 
+##### bspwm
+\+ Конфигурация может быть написана на любом скриптовом 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mjg5MTQ0OV19
+eyJoaXN0b3J5IjpbLTQ5MTg4MDQxNF19
 -->
