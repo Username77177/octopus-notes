@@ -9,7 +9,12 @@
 `sudo pacman -Sy имя_пакета`
 В Fedora:
 `sudo dnf install имя_пакета`
-Попробуйте написать следующую ко
+
+Попробуйте написать следующую команду:
+`sudo apt install fzf` (*работает на Ubuntu выше 19 версии*)
+
+
+
 ## Перемещение
 `cd` - переместиться в какую-то папку
 `fzf` - быстрый поиск (при наличии пакета)
@@ -17,5 +22,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjMxMTY1NiwtMTQ3Mjk0MDk0M119
+eyJoaXN0b3J5IjpbLTk5OTA2ODQ4OCwtMTQ3Mjk0MDk0M119
 -->
