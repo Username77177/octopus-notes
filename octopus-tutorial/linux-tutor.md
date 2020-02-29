@@ -16,12 +16,12 @@
 
 
 
-## Перемещение по директр
+## Перемещение по директориям
 `cd` - переместиться в какую-то папку
 `fzf` - быстрый поиск (при наличии пакета)
-
+`find` - найти что-либо
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MDgyNzE3LC0xNDcyOTQwOTQzXX0=
+eyJoaXN0b3J5IjpbMTg1ODAxNDE4MCwtMTQ3Mjk0MDk0M119
 -->
