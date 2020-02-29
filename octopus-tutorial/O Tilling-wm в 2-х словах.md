@@ -33,9 +33,8 @@
 
 \- Обязательное знание Lua
 \- Немного больше нагружает систему, чем bspwm
-\- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzQxOTQ4OV19
+eyJoaXN0b3J5IjpbMTI3MzcxMzk1OF19
 -->
