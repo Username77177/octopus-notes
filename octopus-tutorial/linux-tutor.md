@@ -4,7 +4,12 @@
 Собственно, перейдем к делу.
 ## Установка пакетов
 Для того, чтобы установить пакет (*пакет - набор данных, который требуется для того, чтобы на вашей машине запустилась какая-либо программа*) в Ubuntu нужно ввести следующее в командную строку:
-`sudo apt install *имя пакета`
+`sudo apt install имя_пакета`
+В Arch Linux или Manjaro:
+`sudo pacman -Sy имя_пакета`
+В Fedora:
+`sudo dnf install имя_пакета`
+Попробуйте написать следующую ко
 ## Перемещение
 `cd` - переместиться в какую-то папку
 `fzf` - быстрый поиск (при наличии пакета)
@@ -12,5 +17,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDc1Njc3MCwtMTQ3Mjk0MDk0M119
+eyJoaXN0b3J5IjpbMTQ3NjMxMTY1NiwtMTQ3Mjk0MDk0M119
 -->
