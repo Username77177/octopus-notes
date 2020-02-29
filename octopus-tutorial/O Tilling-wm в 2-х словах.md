@@ -4,9 +4,12 @@
 
 **Плюсы и минусы**:
 ##### i3
-+
+\+ Гибконастраиваемый
+\+ Легковесный
+\+ Вся конфигурация в одном файле (*хотя, этот плюс, конечно же субъективный*)
+\+ 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODgwOTI0NV19
+eyJoaXN0b3J5IjpbMjQ1NjMzOTQ0XX0=
 -->
