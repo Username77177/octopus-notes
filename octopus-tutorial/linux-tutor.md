@@ -18,10 +18,12 @@
 
 ## Перемещение по директориям
 `cd` - переместиться в какую-то папку
+`cd dir_name`
 `fzf` - быстрый поиск (при наличии пакета)
 `find` - найти что-либо
-
+`find -f
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODAxNDE4MCwtMTQ3Mjk0MDk0M119
+eyJoaXN0b3J5IjpbMTU5NTcyMTYzMiwxODU4MDE0MTgwLC0xND
+cyOTQwOTQzXX0=
 -->
